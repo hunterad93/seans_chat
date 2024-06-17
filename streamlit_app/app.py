@@ -6,7 +6,7 @@ import time
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 assistants = {
-    "seans chat": "asst_i2G0tKzk078avpQRVDHaBSCn"
+    "seans chat": "asst_M5ikswys0AXQttew4WNW5QE"
 }
 
 def ensure_single_thread_id():
